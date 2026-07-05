@@ -62,3 +62,9 @@ Hey Alex, you're 20 years old with a BMI of 22.20 (Normal weight) and you got a 
 - Use `std::fixed` and `std::setprecision(2)` (from `<iomanip>`) to format the BMI output.
 - Validate inputs where appropriate (e.g., non-negative height/weight, score between 0 and 100).
 - Keep the program interactive with clear prompts.
+
+## **Discription**
+This C++ program collects a user's personal details, weight, height, and test score to calculate and display their BMI category and their corresponding academic letter grade.
+
+## **Video**
+https://drive.google.com/file/d/1AONwSwMkV8tLpKHTvzcvZ_GGPM96EoTx/view?usp=sharing
